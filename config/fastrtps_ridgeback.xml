@@ -26,6 +26,11 @@
                         </locator>
                         <locator>
                             <udpv4>
+                                <address>10.158.37.115</address>
+                            </udpv4>
+                        </locator>
+                        <locator>
+                            <udpv4>
                                 <address>127.0.0.1</address>
                             </udpv4>
                         </locator>
